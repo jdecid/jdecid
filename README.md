@@ -1,7 +1,7 @@
 ### I do some stuff with a dark background editor
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepdecid&layout=compact&hide=Jupyter%20Notebook&langs_count=10&theme=dracula)](https://github.com/jdecid/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josepdecid&layout=compact&hide=Jupyter%20Notebook&langs_count=10&theme=dracula)](https://github.com/josepdecid/github-readme-stats)
 
 ![Josep's GitHub stats](https://github-readme-stats.vercel.app/api?username=josepdecid&show_icons=true&theme=dracula)
 
