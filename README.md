@@ -9,6 +9,27 @@
    <img width="75" src="https://github.com/josepdecid/josepdecid/blob/main/josep-icon.png?raw=true" />
 </div>
 
+<h3> Quick Facts</h3>
+<div>
+  <ul>
+     <li>🗺️ I'm From Catalonia, Spain</li>
+     <li>🎻 I play the violin and I have practiced fencing for a while 🤺</li>
+     <li>🐕 My dog is named after an activation function in Neural Networks: ReLU</li>
+     <li>🌱 Currently learning and practicing with Rust and Solidity</li>
+     <li>😀 Pronouns: He/Him</li>
+     <li>🗣️ Try to pronounce it: <strong>ʒuˈzɛb</strong></li>
+     <li>📲 Reach out to me on:</li>
+  </ul>
+   <a href="mailto:josep.de.cid@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://twitter.com/josepdecid" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/josepdecid/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://stackoverflow.com/users/6276241/josepdecid" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+</div>
+
 <h3>Education Background</h3>
 <div>
    <span> 🖥️(✔️) <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering" target="_blank">
@@ -66,11 +87,8 @@
    <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </div>
 
-<h3> Quick Facts</h3>
+<h3> Check my stats!</h3>
 <div>
-  <h4> Check my stats!</h3>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepdecid&layout=compact&hide=Jupyter%20Notebook,Makefile,Shaderlab,HLSL&langs_count=10" />
-    <img src="https://github-readme-stats.vercel.app/api?username=josepdecid&show_icons=true" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepdecid&layout=compact&hide=Jupyter%20Notebook,Makefile,Shaderlab,HLSL&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josepdecid&show_icons=true" />
 </div>
