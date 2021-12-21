@@ -1,10 +1,13 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://github.com/josepdecid/josepdecid/blob/main/josep.png?raw=true" />
-   <h2 align="center">Hi, I'm Josep! 👋</h2>
+   <h2 align="center">Hi, this is Josep ☝️👋!</h2>
 </p>
 
-<p align="center">I'm a <strong>Computer Scientist</strong> and <strong>Software Engineer</strong>.</p>
-<p align="center">Check my stuff! 👇</p>
+<div align="center">
+   <p>I'm a <strong>Computer Scientist</strong> and <strong>Software Engineer</strong>. Feel free to check my stuff!</p>
+   <p>You'll probably see me around as 👇</p>
+   <img width="75" src="https://github.com/josepdecid/josepdecid/blob/main/josep-icon.png?raw=true" />
+</div>
 
 <h3>Education Background</h3>
 <div>
