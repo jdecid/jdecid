@@ -4,11 +4,33 @@
 </p>
 
 <p align="center">I'm a <strong>Computer Scientist</strong> and <strong>Software Engineer</strong>.</p>
-<p align="center">Check my content! 👇</p>
+<p align="center">Check my stuff! 👇</p>
 
 <h3>Education Background</h3>
+<div>
+   <span> 🖥️(✔️) <a href="https://www.fib.upc.edu/en/studies/bachelors-degrees/bachelor-degree-informatics-engineering" target="_blank">
+      Bachelor's Degree in Computer Science and Engineering @ UPC
+   </a></span><br />
+   <span> 🧠(✔️) <a href="https://www.fib.upc.edu/en/studies/masters/master-artificial-intelligence" target="_blank">
+      Master's Degree in Artificial Intelligence @ UPC, UB and URV
+   </a></span><br />
+</div>
 
 <h3>Career</h3>
+<div>
+   <span> 👨🏻‍💻(🗂️) <a href="https://inlab.fib.upc.edu/en" target="_blank">
+      Full-Stack Developer @ inLabFIB
+   </a></span><br />
+   <span> 👨🏻‍🔬(🗂️) <a href="https://www.bsc.es/" target="_blank">
+     Artificial Intelligence (Deep Learning) Researcher and Engineer @ Barcelona Supercomputing Center
+   </a></span><br />
+   <span> 👨🏻‍🏫(🗂️) <a href="https://www.fib.upc.edu/en/research/departments/computer-science" target="_blank">
+      Associate Professor @ CS Department from Polytechnic University of Catalonia (UPC)
+   </a></span><br />
+   <span> 👨🏻‍💻(🚩) <strong><a href="https://www.overloop.io/" target="_blank">
+      Full-Stack Software Engineer @ Overloop
+   </strong></a></span><br />
+</div>
 
 <h3> Quick Facts</h3>
 <div>
