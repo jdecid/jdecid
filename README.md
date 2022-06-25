@@ -92,3 +92,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josepdecid&layout=compact&hide=Jupyter%20Notebook,Makefile,Shaderlab,HLSL&langs_count=10" />
   <img src="https://github-readme-stats.vercel.app/api?username=josepdecid&show_icons=true" />
 </div>
+
+![](https://komarev.com/ghpvc/?username=josepdecid&style=for-the-badge&color=blueviolet)
